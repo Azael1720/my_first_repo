@@ -1,1 +1,3 @@
 "Hola clase del curso Control de verisones con GIT"
+import numpy as numpy
+np.random.rand(20)
